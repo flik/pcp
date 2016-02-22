@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/personalcompain</path>
+    <page_callback>CRM_Personal_Page_PersonalCompain</page_callback>
+    <title>PersonalCompain</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/mypcp</path>
+    <page_callback>CRM_Personal_Form_MyPCP</page_callback>
+    <title>MyPCP</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
