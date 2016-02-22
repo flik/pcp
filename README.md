@@ -12,3 +12,7 @@ cv
 Extract all files in /sites/default/files/civicrm/ext/uk.compucorp.personal
 
 Then go to manage extensions and install it.
+
+
+http://yourdomain/civicrm/mypcp
+This is the web path of extention 
